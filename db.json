@@ -1,0 +1,93 @@
+{
+  "users": [
+    {
+      "firstname": "harman",
+      "email": "harman@gmail.com",
+      "address": "ropar",
+      "password": "123",
+      "lastname": "singh",
+      "phone_number": "1234",
+      "brief": "abc",
+      "confirm_password": "123",
+      "id": 1
+    },
+    {
+      "firstname": "Ravish",
+      "email": "ravish@gmail.com",
+      "address": "noida",
+      "password": "1234",
+      "lastname": "kumar",
+      "phone_number": "9980",
+      "brief": "rv",
+      "confirm_password": "1234",
+      "id": 2
+    },
+    {
+      "firstname": "aartisdghcfycb",
+      "email": "aarti@gmail.com",
+      "address": "noidahgcvdsc",
+      "phone_number": 564654674353453,
+      "brief": "dswdf",
+      "password": "123",
+      "lastname": "efs",
+      "id": 3
+    },
+    {
+      "firstname": "shubhanshi",
+      "email": "shubhansi@gmail.com",
+      "address": "chandigarh",
+      "password": "23456",
+      "lastname": "verma",
+      "phone_number": 1234567890,
+      "brief": "cold",
+      "confirm_password": "23456",
+      "id": 4
+    },
+    {
+      "firstname": "shubhanshi",
+      "email": "shubhansi@gmail.com",
+      "address": "chandigarh",
+      "password": "23456",
+      "lastname": "verma",
+      "phone_number": 1234567890,
+      "brief": "cold",
+      "confirm_password": "23456",
+      "id": 5
+    }
+  ],
+  "bookings":[
+    {
+    "date_item" : "4 Apr 2019,09:00am",
+    "traveller": "Harman",
+    "address" :"#53, kalgidhar Road,Ropar",
+    "status":"STARTED",
+    "upcoming": true,
+    "past" : false
+
+  },
+  {
+    "date_time" :"4 Apr 2019,09:00am",
+    "traveller": "Shubhanshi",
+    "address" :"chandigarh",
+    "status":"PENDING",
+    "upcoming": true,
+    "past" : false
+
+  },
+  {
+    "date_item" : "4 Apr 2019,09:00am",
+    "traveller": "Harman",
+    "address" :"#53, kalgidhar Road,Ropar",
+    "status":"ON THE WAY",
+    "upcoming": true,
+    "past" : false
+
+  }
+
+]
+  
+
+    
+  
+
+}

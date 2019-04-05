@@ -1,0 +1,21 @@
+.nav{
+    margin-right: 100px;
+}
+
+.nav-link{
+color: white;
+}
+
+.dropdown-item{
+    color: gray;
+}
+.header{
+    background-color: lightgray;
+    width: 1300px;
+    height: 90px;
+}
+.logo{
+    height:1%;
+    width:1%;
+    
+}

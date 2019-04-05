@@ -1,0 +1,20 @@
+h2 { 
+color:#00cc00;
+}
+.header{
+    background-color: lightgray;
+    width: 1290px;
+    height: 90px;
+}
+.logo{
+    height:1%;
+    width:1%;
+    
+}
+h4{
+    color:lightgreen;
+    text-align:center;
+}
+hr{
+    color: lightgrey;
+}
